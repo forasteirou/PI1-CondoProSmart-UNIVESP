@@ -1,6 +1,6 @@
-# PI UNIVESP
+# CondoProSmart
 
 ## Projeto Integrador
 ### UNICEU-PJI110-SALA-001GRUPO-016
 
-Aleatório só pra criar a branch de trabalho
+O software de recebimento de mercadoria para condomínios é uma ferramenta que visa aprimorar a gestão das entregas de encomendas em condomínios residenciais. O objetivo principal é oferecer uma solução eficiente e organizada para o recebimento, registro e distribuição de mercadorias entregues no condomínio. Para atingir esse objetivo, o software utiliza uma metodologia que envolve o cadastro de moradores e fornecedores, registro de encomendas, e o controle de estoque. O software também pode ser integrado com outros sistemas de gestão do condomínio, como o controle de acesso e o sistema de segurança, para garantir uma gestão integrada e eficiente das operações. Os resultados obtidos com o uso do software são expressivos, com melhora significativa na organização e controle das entregas. O software também permite uma melhor gestão do estoque, garantindo que os produtos sejam armazenados corretamente e não haja perdas ou extravios. Em considerações finais, é importante destacar que o uso do software de recebimento de mercadoria traz benefícios tanto para a gestão do condomínio quanto para os moradores. Com a tecnologia, é possível melhorar a qualidade do serviço oferecido e proporcionar mais segurança e comodidade para todos. 
